@@ -1,5 +1,5 @@
 # CS4372_HW2_Shyam_Rudy
-Dataset Link: [https://www.kaggle.com/datasets/lorenzozoppelletto/financial-risk-for-loan-approval?resource=download&select=Loan.csv]([url](https://www.kaggle.com/datasets/lorenzozoppelletto/financial-risk-for-loan-approval?resource=download&select=Loan.csv))
+Dataset Link: ([url](https://www.kaggle.com/datasets/lorenzozoppelletto/financial-risk-for-loan-approval?resource=download&select=Loan.csv))
 
 Overview:
 This project predicts whether a loan application will be approved or not using financial, demographic, and credit-history attributes from the Financial Risk for Loan Approval dataset.
