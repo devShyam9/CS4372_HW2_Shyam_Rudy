@@ -19,6 +19,9 @@ Run all cells in order:
 
 Files Included:
 CS4372HW2_Shyam_Rudy.ipynb — code
+
 Loan.csv — dataset
+
 HW2_Report_Shyam_Rudy.pdf — report
+
 README.md — instructions & project summary
