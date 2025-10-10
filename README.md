@@ -23,5 +23,5 @@ CS4372HW2_Shyam_Rudy.ipynb — complete code
 
 Loan.csv — dataset
 
-HW2_Report_Shyam_Rudy.pdf — report
+HW2_Report_for_CS4372_Shyam_Rudy.pdf — report
 
